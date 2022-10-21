@@ -1,0 +1,22 @@
+.logo {
+    font-size: 2rem;
+    font-family: 'Kaushan Script', cursive;
+    color: black;
+}
+
+body {
+    background-color: #fe9600;
+    color: white;
+    text-align: center;
+}
+
+.table-bg {
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 15px 15px 0 0;
+}
+
+.box-search {
+    display: flex;
+    justify-content: center;
+    gap: .1%;
+}
